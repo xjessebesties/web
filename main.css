@@ -1,13 +1,14 @@
+body {background-color: gray;}
 h1 {
   color: purple;
-  font-family: roboto;
+  font-family: arial;
   font-size: 36px;
   text-align: center;
   text-decoration: underline;
 }
 h2 {
   color: red;
-  font-family: roboto;
+  font-family: arial;
   font-size: 20px;
 }
 p {
