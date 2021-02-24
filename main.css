@@ -10,3 +10,8 @@ h2 {
   font-family: roboto;
   font-size: 20px;
 }
+p {
+  color: black;
+  font-family: arial;
+  font-size: 14px;
+}
