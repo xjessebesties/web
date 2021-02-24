@@ -1,10 +1,12 @@
 h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
+  color: purple;
+  font-family: roboto;
+  font-size: 36px;
+  text-align: center;
+  text-decoration: underline;
 }
-p {
+h2 {
   color: red;
-  font-family: courier;
-  font-size: 160%;
+  font-family: roboto;
+  font-size: 20px;
 }
